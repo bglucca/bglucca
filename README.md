@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Science, ML and how to solve business problems using Analytics**
 
-- ⚡ Fun fact: **I used to do Kung-Fu**
+- ⚡ Fun fact: **I used to do Kung-Fu and I'm Brazilian-Italian**
 
 - 🗣️ I can speak: **English, Portuguese, German and I'm learning French**
 
