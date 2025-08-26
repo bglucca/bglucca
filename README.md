@@ -5,15 +5,13 @@
 
 - 🤝 I’m currently looking for opportunities in **Paris or Europe (remote)**
 
-- 👨‍💻 All of my projects and experiences are available at [https://bglucca.github.io](https://bglucca.github.io)
-
 - 📝 I write articles on Medium [https://medium.com/@luccagomes](https://medium.com/@luccagomes)
 
 - 💬 Ask me about **Data Science, ML and how to solve business problems using Analytics**
 
 - ⚡ Fun fact: **I used to do Kung-Fu and I'm Brazilian-Italian**
 
-- 🗣️ I can speak: **English, Portuguese, German and I'm learning French**
+- 🗣️ I can speak: **English, Portuguese, German and French**
 
 ### 📝 Blog Posts
 
