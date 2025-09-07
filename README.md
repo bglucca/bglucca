@@ -5,7 +5,7 @@
 
 - 📝 I write articles on Medium [https://medium.com/@luccagomes](https://medium.com/@luccagomes)
 
-- But you can also find it on my [personal page](https://bglucca.github.io)
+- You can also find them on my [personal page](https://bglucca.github.io)
 
 - ⚡ Fun fact: **I used to do Kung-Fu and I'm Brazilian-Italian**
 
