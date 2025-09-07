@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lucca</h1>
 <h3 align="center">A Data Scientist in Paris</h3>
 
-- 👯 I’m looking to collaborate on **Data, ML and AI projects**
-
-- 🤝 I’m currently looking for opportunities in **Paris or Europe (remote)**
+- 👯 I'm involved in **Data, ML and AI projects**
 
 - 📝 I write articles on Medium [https://medium.com/@luccagomes](https://medium.com/@luccagomes)
 
-- 💬 Ask me about **Data Science, ML and how to solve business problems using Analytics**
+- But you can also find it on my [personal page](https://bglucca.github.io)
 
 - ⚡ Fun fact: **I used to do Kung-Fu and I'm Brazilian-Italian**
 
